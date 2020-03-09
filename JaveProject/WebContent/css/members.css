@@ -1,0 +1,73 @@
+@charset "UTF-8";
+body{
+	margin:0;
+}
+.header{
+	width:100%;
+	height:10vh;
+	background-color: #393332;
+	overflow: auto;
+	margin:0%;
+	padding: 0%;
+	position: relative;
+}
+.footer{
+	background-color: #393332;
+	height:7vh; 
+	width:100%; 
+	position: fixed;
+	bottom: 0;
+}
+
+.banner{
+	background-color: #E79550;
+	width:100%;
+	height:2vh;
+	
+}
+.sidebar{
+	background-color: #393332;
+	width:8vw;
+	height:81vh;
+	float:left;
+}
+.button1 {
+	width: 100%;
+    transition-duration: 0.4s;
+    background-color: #393332;
+    border: none;
+    color: #F9E7AA;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 0.2px solid #898989;
+}
+.button1:hover {
+    background-color: #898989; 
+    color: #F9E7AA;
+}
+.querytable td{
+	width=100%;
+}
+.adminName{
+	float:right;
+	font-size:16px;
+	color:#E79550;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
